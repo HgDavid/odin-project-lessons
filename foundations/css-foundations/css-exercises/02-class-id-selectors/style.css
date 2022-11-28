@@ -1,0 +1,19 @@
+.daniel {
+  background-color: rgb(255,167,167);
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.cooler {
+  font-size: 24px;
+}
+
+#oingo {
+  color: rgb(19,19,255) ;
+  font-size: 36px;
+}
+
+#boingo {
+  background-color: rgb(128,255,128);
+  font-size: 24px;
+  font-weight: bold;
+}
